@@ -7,3 +7,4 @@ application/config/database.php
 application/config/app.php
 application/config/*
 .htaccess
+index.php
