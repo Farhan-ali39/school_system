@@ -1,0 +1,9 @@
+.idea
+/system
+application/config
+index.php
+application/config/config.php
+application/config/database.php
+application/config/app.php
+application/config/*
+.htaccess
