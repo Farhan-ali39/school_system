@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "leadershipschool.com.pk",
+  "Id": "3d583673-6a0b-4b8a-abc4-89e014ecb31e"
+}
